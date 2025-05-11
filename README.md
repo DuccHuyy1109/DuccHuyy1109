@@ -1,5 +1,35 @@
-About Me / Giới Thiệu Về Tôi
-English
-Hello! I’m DuccHuyy, a dedicated Computer Science student (Class 16-05) at Đại Nam University. With a strong passion for front-end development, I strive to create impactful and user-friendly projects. My goal is to contribute to the tech community by sharing solutions that can assist and inspire others. Let’s connect and build something amazing together!
-Vietnamese / Tiếng Việt
-Xin chào! Tôi là DuccHuyy, hiện đang là sinh viên ngành Công nghệ Thông tin (lớp 16-05) tại Đại học Đại Nam. Tôi có niềm đam mê mãnh liệt với lập trình giao diện người dùng (Front-End) và luôn nỗ lực xây dựng những dự án thân thiện, hữu ích. Mục tiêu của tôi là đóng góp cho cộng đồng công nghệ bằng cách chia sẻ các giải pháp có thể hỗ trợ và truyền cảm hứng cho mọi người. Hãy cùng kết nối và tạo ra những điều tuyệt vời nhé!
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/student-male.png" alt="Student Icon"/>
+</p>
+
+# 👋 Welcome to My Profile / Chào Mừng Đến Với Hồ Sơ Của Tôi
+
+---
+
+## 🌟 About Me / Về Tôi
+
+### English
+I’m **DuccHuyy**, a Computer Science student (Class 16-05) currently studying at **Đại Nam University**. I’m passionate about **Front-End Development** and committed to creating user-friendly, modern web applications. My goal is to share meaningful projects that can benefit the tech community. Let’s connect and build innovative solutions together!
+
+### Tiếng Việt
+Tôi là **DuccHuyy**, một sinh viên ngành Công nghệ Thông tin (lớp 16-05) hiện đang học tại **Đại học Đại Nam**. Tôi đam mê **Lập trình Giao diện Người dùng (Front-End)** và luôn nỗ lực xây dựng các ứng dụng web hiện đại, thân thiện với người dùng. Mục tiêu của tôi là chia sẻ những dự án ý nghĩa, mang lại giá trị cho cộng đồng công nghệ. Hãy cùng kết nối và tạo ra những giải pháp sáng tạo nhé!
+
+---
+
+## 💻 What I’m Working On / Tôi Đang Làm Gì
+- Developing responsive web interfaces.
+- Learning and experimenting with Front-End technologies.
+- Creating projects to support and inspire fellow developers.
+
+---
+
+## 📫 Connect With Me / Kết Nối Với Tôi
+- 📧 **Email**: [ducchuyy2k4@gmail.com](mailto:ducchuyy2k4@gmail.com)  
+- 💼 **GitHub**: [DuccHuyy1109](https://github.com/DuccHuyy1109)  
+- 📘 **Facebook**: [ucchuyy.528918](https://www.facebook.com/ucchuyy.528918/)
+
+---
+
+<p align="center">
+  <i>Let’s code the future together! / Hãy cùng viết mã cho tương lai!</i>
+</p>
